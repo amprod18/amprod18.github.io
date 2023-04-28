@@ -1,0 +1,8 @@
+#0B2447 darkest blue
+#19376D dark blue
+#347FF3 light blue
+#A5D7E8 ligthest blue
+
+
+https://htmlcolorcodes.com/color-picker/
+https://colorhunt.co/palette/0b244719376d576cbca5d7e8
